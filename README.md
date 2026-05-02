@@ -1,6 +1,6 @@
 ## Breve apresentação
 
-Sou **Marcia Santos**, tenho formação em *Comunicação Social8 com especialização em Assessoria de Comunicação e Imprensa
+Sou **Marcia Santos**, tenho formação em *Comunicação Social* com especialização em Assessoria de Comunicação e Imprensa
 
 ## Experiência Profissional
 - Comunicação institucional
