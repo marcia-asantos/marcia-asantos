@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on eventos sazonais
+- 🔭 I’m currently working on ## eventos sazonais
 - 🌱 I’m currently learning temas referentes ao consumo
 - 👯 I’m looking to collaborate on atividades administrativas
 - 🤔 I’m looking for help with conhecimentos em tecnologias da informação
